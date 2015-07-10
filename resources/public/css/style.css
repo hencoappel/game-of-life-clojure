@@ -1,2 +1,18 @@
 /* some style */
+.grid {
+}
 
+.square {
+	float: left;
+	width: 10px;
+	height: 10px;
+	margin: 0px;
+}
+
+.live {
+	background: black;
+}
+
+.dead {
+	background: white;
+}
